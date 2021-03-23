@@ -1,21 +1,22 @@
 # About this Cool Concise Jekyll Blog Theme
 
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
+theme Credits: [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
 
 ## About Blog 
 
 * Page Details
-    * [Home]()
-    * [Archives](#)
-    * [Categories](#categories)
-    * [Tags](#tags)
-    * [Collections](#collections)
+    * [Home](https://aasthagithub.github.io/)
+    * [Archives](https://aasthagithub.github.io/archive/)
+    * [Categories](https://aasthagithub.github.io/category/)
+    * [Tags](https://aasthagithub.github.io/tag/)
+    * [Collections](https://aasthagithub.github.io/collection/)
     * [Demo](#demo)
-    * [About](#about)
+    * [About](https://aasthagithub.github.io/about/)
     
 
 * Content Categories
     * [1. Life]():
+        * [Journal](https://aasthagithub.github.io/category/#journal)
         * [Productivity]()
         * [Happiness]()
         * [Gratefulness]()
