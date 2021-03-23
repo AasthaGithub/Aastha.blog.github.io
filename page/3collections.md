@@ -24,9 +24,18 @@ type: page
 - [tiny png](https://tinypng.com/)
 
 
-### webpack
+### Everyday Shortcut
 
-* [Webpack ](https://www.gitbook.com/book/zhaoda/webpack/details)
+#### Vs code shortcuts
+```
+Ctrl + ` = Terminal
+B = Sidebar
+P = Open File....... :11 line jump
+ @symbol
+Ctrl + shift + P = Cmd Palette
+
+Alt + Z = Wrapping Toggle
+```
 
 ### React
 
