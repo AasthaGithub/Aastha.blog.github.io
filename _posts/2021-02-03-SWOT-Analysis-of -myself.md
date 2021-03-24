@@ -37,7 +37,30 @@ Some issues i m dealing with : phone memory storage, choosing shows to watch fro
 
 I know to get the best and worst of all! Writing / Song/ Spreading Smiles Mission.. <br>
 
+## More abt me
+```
+My personality resonates with my name Aastha, a trustworthy person.
+I want to go a bit back and start narrating a bit abt my previous self, i believe like technology, we have our own versions too, n we release our updates even more frequently than our Windows ka pc like we change, our thoughts do. 
+I've always wanted to be many things. So, initially I wanted to become a teacher/book publisher as I wanted to touch upon lives of as many people as i could. I was always interested in science and tech along with the logical maths. Then, i started liking psychology n eventually biology to understand miraculous activities our body perform daily. So, i went up n took medical .. 
+Still, I kept in touch with maths as i took pcmb and in that due course of time of 2 yrs of 11 n 12th, i realised the spark for, n the joy for  achievement when I fixed things by some jugaads, n what was better than engg.. I somehow knew that extc was a branch that would keep me in touch with both hardware and software, so i took it. 
+N now, looking back to those 3 yrs of engg n the subjects I've liked like spa, oop, dce, ipmv, etc i realised programming was my calling and this vacation I explored various domains.prog, particularly Data science n bda, cloud computing, interesed me a lot n i got along the learning course, learned python along with basic ds algo, then i built my first classification model - knn on iris, then there was no stopping, i dived in further with courses on Udacity, coursera on ml, nn..
 
+
+I've always wanted to work with an organisation whose values and objectives align with mine n tcs is perfectly that. I could tell this after the pre placement talk for sure. 
+
+I m particularly impressed by obj Lirel:
+leading change
+Integrity
+Respect for all
+Excellence 
+Learn n share
+N offcourse the technologies tcs has been working on.. The unique n very much society driven utilising latest technologies projects.. 
+Biometric markers : safety of infants from metals
+Kavach: worker's watch
+Ignio: ai product 
+Klm airplane service
+Digital skin to experiment
+```
 ## Sayonara
 
 Meet u again!

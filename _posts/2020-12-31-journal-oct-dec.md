@@ -106,9 +106,10 @@ Berkeley ai csi 308 | University of Colorado... Completed Mid term freelance lik
 ‌a star, dijkstra's <br>
 Minimax!  <br>
 
-‌```
+```
 ek baat toh pakki h, I can do any last minute learning PhDs. Aaj ek din main maine kai weeks k coursework pdf, videos, blogs research per dekh liye ki ab lagta hai, chahe toh kuchh b ho sakta h!!
 ```
+
 ‌plus aaj covid project ki meeting b t, last minute handling ki woh b, got basic notebook ready. <br>
 
 - bye
@@ -124,7 +125,7 @@ Success, in large part, is about overcoming your biggest enemies - that's usuall
 
 ‌ep 8 ": when choi ae ra says they work hard, see dim days struggle so much but their resume will still be empty when compared to privileged kids who get healthy environment, abroad studies and more, that lines just hit the heart at right place, making one aware of & relate to struggles of people who later become champions. 
 
-‌## 6 oct: 
+## 6 oct:  
 The reason y ur father might not be walking at ur pace is to get u good things, so teary eyed rn. He's the first one wanting you to see u fly high & live a life better than him. <br>
 He's bore a burden to take care of all hr needs by stopping to live his life his way. Never hurt him, ask him what was his dream, & do whatever close to it u can, bcoz he wasn't always ur dad, u weren't always his dreams; he had sacrificed all his previous dreams for u & comfort of ur family. <br>
 A little token of appreciation could bring him a lifetime joy, don't mis the chance to do this when u can, before it becomes impossible & irrelevant <br>
@@ -132,7 +133,7 @@ A little token of appreciation could bring him a lifetime joy, don't mis the cha
 Ep 14: every storm in the world finds u when u have ur guard down. <br>
 ‌once the storm goes away, then the darkness comes, this is the game-changing period wherein a person is given a new chance to start over with the failed experience, to correct it & go to unimaginable lengths, the graph really could be a parabola here! <br>
 
-‌## 12 oct: 
+## 12 oct: 
 dong man : if we can't win, let's play anyway, living our life own way (the way we want) is winning too <br>
 ‌sul hee: u need to be reckless to hit a jackpot <br>
 ‌joo man : don't mind what others are eating. <br>
@@ -149,7 +150,8 @@ But in the process, my sis caught up with some urgent office work when a few tho
 ‌learn to say no <br>
 I actually learnt how it feels being victim of superficial helper ( which I have been many a times), where we have the good intentions but our actions doesn't speak so. I'll stop being one now. 
 ‌
-‌## 4 oct :
+## 4 oct: 
+3Oct : 1v1 conversation with Vinayaka - (More about my learnings in LinkedIn recommendations) <br>
 mindmapper: Mongo visually <br>
 robo3t: flow chart <br>
 
@@ -171,6 +173,59 @@ After Party thanking Meet Insipration for Azure ML Udacity course
 ‌https://www.linkedin.com/groups/8954574/  <br>
 ‌talent - iq multiplied.  <br>
 
+## 3 sep: 
+missed leetcode again, got to know lti sched, thank god it's not full of oracle dbms. Uske baad core java h, dsa bhi strong ban jaayega 😁<br>
+Can u believe Jonathan Javier of Wonsulting sent me a connection request on LinkedIn <br>
+Plus, taareef bhi mili,  lti'n ml waale se, but <br>
+Pata nhi q sab kuchh hote hue bhi kuchh toh missing h, sab mujhmain potential dhundh paate h, but main khud hi nhi
+.... <br> Haa, thoda yakeen karne lagi hu main bhi special hu, drama k heroes ki tarah, mera bhi koi life purpose h, kaafi nazdik hu, but chhuna baaki h
+
+## 4 oct:
+i need to vent it out! <br>
+‌tuti hu par nirkhi hu: life main yeh toh pakka pata chal gya, all fast paced things rnt good, be it any relationship or book or course. <br>
+‌kisise sirf 2 din main attach nhi hona chahiye, one might be showing his superficial side. Masquerading original intentions which is very likely to happen in real world! <br>
+‌to save urself from this always look on the indicators! Every strategy has a mistake made, be smart enough to detect it. With this the start of a good thing is likely to be not so exciting and kinda dull, but that's where u could see through & identify real. <br>
+‌take admiration & quick success with a pinch of salt of it being purely due to luck or down the garage <br>
+
+## Points for blog TO-Do
+```
+Travel real education :
+‌place, culture
+‌people
+‌practical knowledge 
+‌multi dimensional development of mind
+‌refresh & live, first handed experience 
+‌somethings at some geography 
+‌photo/video/real life simulation better than read & tick. 
+
+What does travel do? 
+Why to travel young? The factors...
+```
+### random TO-DO
+```
+‌psoc :9-10
+‌theres no tomorrow : 9-11
+‌mlh fellowship /outreach: 2-3
+‌11-12 break
+‌opportunity: 12-1 
+‌ghc resume :  11.30-12.00
+‌tb data analysis: 1-2
+‌azure/coursera :3-4
+‌workplace setup- 5 courses, assignment : 4-5
+‌java blog : 5-6
+
+-------------------
+
+‌meme send before 8.30
+‌git readme
+‌postman
+‌boolean
+‌utils 
+‌Azure study jam 9.30 pm
+‌Cloud Counselage! 4 pm
+
+
+```
 ## Sayonara
 Meet u again!
 
