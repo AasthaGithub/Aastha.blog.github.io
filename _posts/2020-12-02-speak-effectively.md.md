@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Template"
+title:  "Presentation on Communication Tips - LTI Training"
 categories: thought-outlets
 tags: communication LTI mini-me
 author: Aastha Mehta
@@ -10,7 +10,7 @@ mathjax: true
 * content
 {:toc}
 
-My how to speak effectively Speech/ Presentation that I wanted to give at Communication's class during my training at LTI
+My "How to speak effectively Speech/ Presentation" that I planned to give at Communication's class during my training at LTI
 
 
 
